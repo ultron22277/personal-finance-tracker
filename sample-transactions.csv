@@ -1,0 +1,11 @@
+type,amount,category,date,description,paymentMode,notes
+expense,45.50,Food & Dining,2024-01-15,Lunch at cafe,card,
+expense,120.00,Transportation,2024-01-10,Monthly bus pass,card,
+income,3000.00,Salary,2024-01-01,January salary,bank_transfer,
+expense,800.00,Housing,2024-01-05,Rent payment,bank_transfer,
+expense,60.00,Entertainment,2024-01-20,Netflix + Spotify,card,
+expense,200.00,Shopping,2024-01-18,Clothes shopping,card,
+income,500.00,Freelance,2024-01-25,Web project payment,bank_transfer,
+expense,35.00,Healthcare,2024-01-12,Doctor visit,cash,
+expense,90.00,Food & Dining,2024-01-22,Grocery run,card,
+expense,25.00,Transportation,2024-01-08,Fuel,cash,
