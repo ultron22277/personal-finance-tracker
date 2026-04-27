@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Personal Finance Tracker — AI-Powered MERN Stack App
 
 A full-featured personal finance management web application built with the MERN stack (MongoDB, Express, React, Node.js) with an optional Python AI microservice.
@@ -153,3 +154,6 @@ income,3000,Salary,2024-01-01,Monthly salary,bank_transfer,
 | FSD 2 | Frontend UI, Dashboard |
 | AI/ML | Analytics, NLP categorization |
 | Cybersecurity | Auth security, audit logs |
+=======
+# personal-finance-tracker
+>>>>>>> 425f762b72cd78434c28c9e829bd5b3c2d0bea0c

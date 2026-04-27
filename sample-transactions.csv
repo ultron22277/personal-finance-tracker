@@ -1,4 +1,4 @@
-type,amount,category,date,description,paymentMode,notes
+git add .type,amount,category,date,description,paymentMode,notes
 expense,45.50,Food & Dining,2024-01-15,Lunch at cafe,card,
 expense,120.00,Transportation,2024-01-10,Monthly bus pass,card,
 income,3000.00,Salary,2024-01-01,January salary,bank_transfer,
